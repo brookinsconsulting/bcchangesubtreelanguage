@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC Change Subtree Language</name>
+        <version>0.1.1</version>
+        <copyright>Copyright (C) 1999 - 2017 Brookins Consulting and Andreas Adelsberger</copyright>
+        <license>GNU General Public License</license>
+        <info_url>https://github.com/brookinsconsulting/bcchangesubtreelanguage</info_url>
+    </metadata>
+</software>

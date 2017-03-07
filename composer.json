@@ -1,0 +1,29 @@
+{
+    "name": "brookinsconsulting/bcchangesubtreelanguage",
+    "description": "eZ Publish Legacy extension which provides a basic but flexible solution for quick and simple changing of a subtree of node objects primary language. Great for developers!",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "cli", "script", "change", "subtree", "language" ],
+    "homepage": "https://github.com/brookinsconsulting/bcchangesubtreelanguage",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        },
+        {
+            "name" : "Andreas Adelsberger",
+            "homepage": "https://github.com/punknroll",
+            "role": "Original Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bcchangesubtreelanguage"
+    }
+}
